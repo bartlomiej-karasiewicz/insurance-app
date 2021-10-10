@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/bartlomiej-karasiewicz/insurance-app-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/bartlomiej-karasiewicz/insurance-app-frontend
